@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rijuoddusual1999.rijuoddusual1999" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frijuoddusual1999&labelColor=%23d9e3f0&countColor=%23263759" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Riju+Mondal!;" />
@@ -16,7 +16,7 @@
 
  💬 Ask me about **React, Tailwind, Javascript... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **Breaking Bad ran for 62 episodes && the 62nd element of periodic table is Samarium, an isotope of which is used to treat various cancer, including lung cancer**
  
  </div>
  
@@ -47,6 +47,17 @@
 <br/>
 
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=rijuoddusual1999&theme=tokyonight&border_radius=3.9&card_width=472)](https://git.io/streak-stats" alt="streak stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rijuoddusual1999&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
 <hr/>
 
 
