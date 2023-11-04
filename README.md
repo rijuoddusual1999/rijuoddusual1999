@@ -49,6 +49,19 @@
 
 <hr/>
 
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github.com/rijuoddusual1999/rijuoddusual1999/blob/output/github-contribution-grid-snake.gif" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
