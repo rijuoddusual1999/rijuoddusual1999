@@ -16,7 +16,7 @@
 
  💬 Ask me about **React, Tailwind, Javascript... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
- ⚡ Fun fact **Breaking Bad ran for 62 episodes && the 62nd element of periodic table is Samarium, an isotope of which is used to treat various cancer, including lung cancer**
+ ⚡ Fun fact **Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25.**
  
  </div>
  
