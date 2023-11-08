@@ -45,7 +45,23 @@
 </div>
 
 <br/>
+
 <hr/>
+
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=rijuoddusual1999&theme=tokyonight&border_radius=3.9&card_width=472)](https://git.io/streak-stats" alt="streak stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rijuoddusual1999&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -58,16 +74,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=rijuoddusual1999&theme=tokyonight&border_radius=3.9&card_width=472)](https://git.io/streak-stats" alt="streak stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rijuoddusual1999&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-<hr/>
 
 
 
