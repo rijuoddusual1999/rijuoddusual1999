@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **mp3 streaming app**
+ 🔭 I’m currently working on **movie recommendation app**
  
  🌱 I’m currently learning **Angular, Next.js, Express.js**
 
